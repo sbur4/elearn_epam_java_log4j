@@ -1,5 +1,0 @@
-OpenJDK15
-IJ community
-maven
-
-git -> Log4JijMaven
